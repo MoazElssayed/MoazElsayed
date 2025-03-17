@@ -2,8 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-alhossary-23a6902b3/)
 
-## About Me
-I'm passionate about expanding my knowldge in cyberseurity and exploring different areas of ethical hacking, penetration testing, and network security. I love breaking things to understand how they work and continuously improving my skills through hands-on practice.
+## About me
+I am currently pursuing my Bachelor's degree in Cybersecurity at RIT Dubai, With a passion for tackling cybersecurity challenges.
+
+## Objective
+I'm passionate about expanding my knowldge in cyberseurity and exploring different areas of ethical hacking, penetration testing, and network security. my main goal is to gain extensive hands-on experience to expand my knowldge in cybersecurity.
 
 ## Intrests 
 - **Penetration Testing & Exploitation** – Web, network, and wireless security assessments.  
