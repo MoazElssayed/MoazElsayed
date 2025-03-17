@@ -5,14 +5,17 @@
 ## About me
 I am currently pursuing my Bachelor's degree in Cybersecurity at RIT Dubai, With a passion for tackling cybersecurity challenges.
 
+
 ## Objective
 I'm passionate about expanding my knowldge in cyberseurity and exploring different areas of ethical hacking, penetration testing, and network security. my main goal is to gain extensive hands-on experience to expand my knowldge in cybersecurity.
+
 
 ## Intrests 
 - **Penetration Testing & Exploitation** – Web, network, and wireless security assessments.  
 - **Reverse Engineering & Malware Analysis** – Threat hunting, forensic analysis, Reverse Engineering and binary exploitation.  
 - **Cryptographic Security** – Developing encryption mechanisms and cryptanalysis techniques.  
 - **Security Research & Vulnerability Assessment** – CVE exploitation, network monitoring, and log analysis.  
+
 
 ## Tools commonly used 
 
@@ -44,11 +47,13 @@ I'm passionate about expanding my knowldge in cyberseurity and exploring differe
 </div>
 
 
+
 ## Certifications  
 <div>
     <img src="https://img.shields.io/badge/-Jr_Penetration_Tester_Certificate-1A1A1A?style=for-the-badge&logo=TryHackMe&logoColor=red" />
     <img src="https://img.shields.io/badge/-Web_Fundamentals_Certificate-1A1A1A?style=for-the-badge&logo=TryHackMe&logoColor=red" />
 </div>
+
 
 
 ## Projects  
