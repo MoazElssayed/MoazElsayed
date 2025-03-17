@@ -1,6 +1,6 @@
 # Hello!, I'm Moaz AlHossary
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/moaz-alhossary-23a6902b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/moaz-elsayed-23a6902b3)
 
 ## About Me
 I'm passionate about expanding my knowldge in cyberseurity and exploring different areas of ethical hacking, penetration testing, and network security. I love breaking things to understand how they work and continuously improving my skills through hands-on practice.
