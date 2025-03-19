@@ -58,7 +58,7 @@ I'm passionate about expanding my knowldge in cyberseurity and exploring differe
 
 ## Projects  
 
-### **Cryptographic Security & Cryptanalysis**  
+### [**Cryptographic Security & Cryptanalysis**  ](https://github.com/MoazAlHossary/Cryptographic-Encryption-Cryptanalysis-Project)
 Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.  
 
 ### Web Security Testing with Proxy Servers  
