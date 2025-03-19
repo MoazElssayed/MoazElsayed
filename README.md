@@ -58,14 +58,14 @@ I'm passionate about expanding my knowldge in cyberseurity and exploring differe
 
 ## Projects  
 
+### **Cryptographic Security & Cryptanalysis**  
+Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.  
+
 ### Web Security Testing with Proxy Servers  
 Used Burp Suite, OWASP ZAP, and Fiddler to intercept HTTP/HTTPS traffic, analyze vulnerabilities, and demonstrate security flaws.  
 
 ### **Wireless Penetration Testing**  
 Conducted penetration testing on a simulated corporate network and exploited vulnerabilities.  
-
-### **Cryptographic Security & Cryptanalysis**  
-Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.  
 
 ### **Red Team Exploitation – CVE-2023-38831 (WinRAR Zero-Day)**  
 Executed a targeted attack simulation, monitored malicious activity using **Sysmon**, and analyzed forensic traces.  
