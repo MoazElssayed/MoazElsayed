@@ -61,7 +61,7 @@ I'm passionate about expanding my knowldge in cyberseurity and exploring differe
 ### [**Cryptographic Security & Cryptanalysis**  ](https://github.com/MoazAlHossary/Cryptographic-Encryption-Cryptanalysis-Project)
 Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.  
 
-### Web Security Testing with Proxy Servers  
+### [Web Security Testing with Proxy Servers  ](https://github.com/MoazAlHossary/web-security-proxy-lab)
 Used Burp Suite, OWASP ZAP, and Fiddler to intercept HTTP/HTTPS traffic, analyze vulnerabilities, and demonstrate security flaws.  
 
 ### **Wireless Penetration Testing**  
