@@ -58,23 +58,23 @@ I'm passionate about expanding my knowldge in cyberseurity and exploring differe
 
 ## Projects  
 
-### [**Cryptographic Security & Cryptanalysis**  ](https://github.com/MoazAlHossary/Cryptographic-Encryption-Cryptanalysis-Project)
-Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.  
+- ###  [**Cryptographic Security & Cryptanalysis**  ](https://github.com/MoazAlHossary/Cryptographic-Encryption-Cryptanalysis-Project)
+    Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.  
 
-### [**Wireless Penetration Testing**](https://github.com/MoazAlHossary/webgoat-owasp-top10)
-Documented and exploited OWASP WebGoat vulnerabilities (A1–A10) with step-by-step walkthroughs, payloads, screenshots, and remediation techniques.
+- ### [**WebGoat-OWASP-Top10**](https://github.com/MoazAlHossary/webgoat-owasp-top10)
+    Documented and exploited OWASP WebGoat vulnerabilities (A1–A10) with step-by-step walkthroughs, payloads, screenshots, and remediation techniques.
+        
+- ### [Web Security Testing with Proxy Servers  ](https://github.com/MoazAlHossary/web-security-proxy-lab)
+    Used Burp Suite, OWASP ZAP, and Fiddler to intercept HTTP/HTTPS traffic, analyze vulnerabilities, and demonstrate security flaws.  
 
-### [Web Security Testing with Proxy Servers  ](https://github.com/MoazAlHossary/web-security-proxy-lab)
-Used Burp Suite, OWASP ZAP, and Fiddler to intercept HTTP/HTTPS traffic, analyze vulnerabilities, and demonstrate security flaws.  
+- ### **Wireless Penetration Testing**  
+    Conducted penetration testing on a simulated corporate network and exploited vulnerabilities.  
 
-### **Wireless Penetration Testing**  
-Conducted penetration testing on a simulated corporate network and exploited vulnerabilities.  
+- ### **Red Team Exploitation – CVE-2023-38831 (WinRAR Zero-Day)**  
+    Executed a targeted attack simulation, monitored malicious activity using **Sysmon**, and analyzed forensic traces.  
 
-### **Red Team Exploitation – CVE-2023-38831 (WinRAR Zero-Day)**  
-Executed a targeted attack simulation, monitored malicious activity using **Sysmon**, and analyzed forensic traces.  
+- ### Cinema Booking System Database  
+    Developed a MariaDB-based relational database for ticketing, implementing SQL security and data normalization.  
 
-### Cinema Booking System Database  
-Developed a MariaDB-based relational database for ticketing, implementing SQL security and data normalization.  
-
-### Secure Chatbot Communication (TTP Protocol)  
-Designed a Python-based protocol for encrypted chatbot communication using DES and multithreading.  
+- ### Secure Chatbot Communication (TTP Protocol)  
+    Designed a Python-based protocol for encrypted chatbot communication using DES and multithreading.  
