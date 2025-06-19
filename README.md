@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-alhossary-23a6902b3/)
 
 ## About me
-I am currently pursuing my Bachelor's degree in Cybersecurity at RIT Dubai, With a passion for tackling cybersecurity challenges.
+I am a Cybersecurity enthusiast, With a passion for tackling cybersecurity challenges.
 
 
 ## Objective
