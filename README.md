@@ -70,5 +70,4 @@ I'm passionate about expanding my knowldge in cyberseurity and exploring differe
 - ### [Web Security Testing with Proxy Servers  ](https://github.com/MoazAlHossary/web-security-proxy-lab)
     Used Burp Suite, OWASP ZAP, and Fiddler to intercept HTTP/HTTPS traffic, analyze vulnerabilities, and demonstrate security flaws.    
 
-- ### Cinema Booking System Database  
-    Developed a MariaDB-based relational database for ticketing, implementing SQL security and data normalization.  
+
