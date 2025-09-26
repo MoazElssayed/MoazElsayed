@@ -58,23 +58,17 @@ I'm passionate about expanding my knowldge in cyberseurity and exploring differe
 
 ## Projects  
 
+- ### [**Azure Sentinel Honeypot (SOC Detection Lab)**](https://github.com/MoazElssayed/azure-sentinel-honeypot)  
+  Deployed a honeypot in Azure, integrated with Microsoft Sentinel to detect attacks using KQL queries, analytics rules, and workbooks.  
+
 - ###  [**Cryptographic Security & Cryptanalysis**  ](https://github.com/MoazAlHossary/Cryptographic-Encryption-Cryptanalysis-Project)
-    Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.  
+    Developed and tested an encryption algorithm, using frequency analysis to identify weaknesses.
 
 - ### [**WebGoat-OWASP-Top10**](https://github.com/MoazAlHossary/webgoat-owasp-top10)
     Documented and exploited OWASP WebGoat vulnerabilities (A1–A10) with step-by-step walkthroughs, payloads, screenshots, and remediation techniques.
         
 - ### [Web Security Testing with Proxy Servers  ](https://github.com/MoazAlHossary/web-security-proxy-lab)
-    Used Burp Suite, OWASP ZAP, and Fiddler to intercept HTTP/HTTPS traffic, analyze vulnerabilities, and demonstrate security flaws.  
-
-- ### **Wireless Penetration Testing**  
-    Conducted penetration testing on a simulated corporate network and exploited vulnerabilities.  
-
-- ### **Red Team Exploitation – CVE-2023-38831 (WinRAR Zero-Day)**  
-    Executed a targeted attack simulation, monitored malicious activity using **Sysmon**, and analyzed forensic traces.  
+    Used Burp Suite, OWASP ZAP, and Fiddler to intercept HTTP/HTTPS traffic, analyze vulnerabilities, and demonstrate security flaws.    
 
 - ### Cinema Booking System Database  
     Developed a MariaDB-based relational database for ticketing, implementing SQL security and data normalization.  
-
-- ### Secure Chatbot Communication (TTP Protocol)  
-    Designed a Python-based protocol for encrypted chatbot communication using DES and multithreading.  
